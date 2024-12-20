@@ -1,0 +1,6 @@
+com\grandstrand\contact\Contact.class
+com\grandstrand\contact\ContactService.class
+com\grandstrand\appointment\Appointment.class
+com\grandstrand\task\TaskService.class
+com\grandstrand\appointment\AppointmentService.class
+com\grandstrand\task\Task.class

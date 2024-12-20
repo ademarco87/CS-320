@@ -1,0 +1,6 @@
+com\grandstrand\contact\ContactServiceTest.class
+com\grandstrand\contact\ContactTest.class
+com\grandstrand\task\TaskTest.class
+com\grandstrand\appointment\AppointmentServiceTest.class
+com\grandstrand\appointment\AppointmentTest.class
+com\grandstrand\task\TaskServiceTest.class

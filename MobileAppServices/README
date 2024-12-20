@@ -1,0 +1,33 @@
+# MobileAppServices Project 
+# SNHU CS-320 Professor R. Tuft
+
+## Project Overview
+This project integrates all previous assignments into a unified application. 
+It includes functionality for managing contacts, tasks, and appointments, each with robust validation and service methods. 
+The project demonstrates object-oriented design principles and unit testing practices.
+
+### Features
+- **Contact Management**:
+  - Add, delete, and update contacts with strict validation.
+- **Task Management**:
+  - Manage tasks with required fields such as name and description.
+- **Appointment Management**:
+  - Add, update, and delete appointments with date and description validation.
+
+## Key Updates
+- All content from prior projects was updated and assimilated into a single cohesive project.
+- Refactored code for consistency and adherence to Java best practices.
+- Enhanced validation logic for all entities (contacts, tasks, and appointments).
+
+## Testing and Coverage
+- Comprehensive unit tests were implemented for all services using JUnit.
+- Achieved **92.0% coverage rate** for the project, verified via Eclipse's Coverage tools.
+- Included edge cases and boundary conditions for all validation logic.
+
+## Tools and Technologies
+- **Java**: Programming language.
+- **JUnit 5**: Unit testing framework.
+- **Eclipse IDE**: Development environment.
+- **Maven**: Dependency and build management.
+
+## Directory Structure
