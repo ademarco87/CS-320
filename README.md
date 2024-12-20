@@ -10,3 +10,6 @@ How do I interpret user needs and incorporate them into a program?
 
 How do I approach designing software?
   Sofware design begins with defining a problem and gathering requirements to establish a clear goal. Prototypes, such as a UML or wireframes, help conceptulize designs and align it with user needs. Modular and scalable architecture should be utilized for future enhancements. Iterative design process, supported with user feedback, collaborative input from both developers and stakeholders, ensure that software is both functional and maintainable. Prioritizing usability, security, and performance in the design ensures a robust final product.
+
+
+**** I have included the final project to demonstrate the learning process, including identifying and fixing errors to improve functionality and meet requirements. By refining my approach, addressing issues such as incomplete test coverage, and implementing feedback effectively, I was able to showcase my growth in understanding software development principles and applying them to create a fully functional and reliable program.
